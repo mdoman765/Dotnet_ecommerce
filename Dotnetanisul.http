@@ -1,0 +1,6 @@
+@Dotnetanisul_HostAddress = http://localhost:5052
+
+GET {{Dotnetanisul_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
